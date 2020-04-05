@@ -26,8 +26,10 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>{{ .Site.Params.name | safeHTML }}</h1>
-						<p>{{ .Site.Params.about | safeHTML }}</p>
+						
+						
+                        <img src="images/csaba.png" width ="300wh" style="padding: 1em;"/>
+                       <h1>{{ .Site.Params.name | safeHTML }}</h1>
 						<nav>
 							<ul>
 								{{ range .Site.Params.social }}
@@ -39,6 +41,7 @@
 								{{ end }}
 							</ul>
 						</nav>
+                         <p>{{ .Site.Params.about | safeHTML }}</p>
 					</header>
 
 				<!-- Footer -->
