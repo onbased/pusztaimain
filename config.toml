@@ -1,0 +1,23 @@
+languageCode = "en-us"
+title = "Aerial"
+baseurl = "http://example.org/"
+theme = "aerial"
+
+[params]
+  name = "Csaba Pusztai"
+  about = "Musician&nbsp;&bull;&nbsp; Martial Artist"
+  copyright = "OnBased Group Kft."
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "fas fa-drum"
+  link = "https://google.com"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "fas fa-yin-yang"
+  link = "https://index.hu"
+
