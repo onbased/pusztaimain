@@ -14,10 +14,10 @@ theme = "aerial"
 [[params.social]]
   medium = "Facebook"
   icon = "fas fa-drum"
-  link = "https://google.com"
+  link = "https://pcsmd.netlify.com/"
 
 [[params.social]]
   medium = "Twitter"
   icon = "fas fa-yin-yang"
-  link = "https://index.hu"
+  link = "https://pcsma.netlify.com/"
 
